@@ -1,0 +1,9 @@
+.carrossel {
+  color: var(--laranja);
+  background-color: var(--branco);
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.8rem;
+  font-weight: 700;
+  padding: 1.6rem 0 0.5rem 0;
+}
